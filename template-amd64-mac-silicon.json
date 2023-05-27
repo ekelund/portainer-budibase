@@ -10,7 +10,7 @@
       "platform": "linux",
       "repository": {
         "url": "https://github.com/Budibase/budibase",
-        "stackfile": "hosting/docker-compose.yaml"
+        "stackfile": "https://raw.githubusercontent.com/ekelund/portainer-budibase/main/docker-compose.yaml"
       },
       "env": [
         {
